@@ -1,0 +1,2 @@
+ffmpeg
+# Agrega aquí cualquier otro paquete de sistema que necesites

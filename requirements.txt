@@ -1,0 +1,4 @@
+streamlit
+librosa
+numpy
+# Agrega aquí cualquier otra biblioteca de Python que uses en el futuro
